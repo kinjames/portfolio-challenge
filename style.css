@@ -334,12 +334,17 @@ img {
 
 /* Smaller talets to bigger tablets */
 @media only screen and (max-width:1023px) {
-    
+    body {
+        width: 100%;
+    }
 }
 
 
 /* larger phones to smaller tablets */
 @media only screen and (max-width:767px) {
+    body {
+        width: 100%;
+    }
     .container {
         padding: 40px 15px;
     }
