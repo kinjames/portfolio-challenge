@@ -39,7 +39,7 @@
 
 ![screenshot](shot.png)
 
-This is a demo Portfolio. It can be viewed here https://kinjames.github.io/portfolio-challenge/ and it was mainly built with HTML and CSS.
+This is a demo Portfolio. It can be viewed here  <a href="https://kinjames.github.io/portfolio-challenge/" target="_blank">Portfolio</a> and it was mainly built with HTML and CSS.
 
 
 
@@ -49,7 +49,6 @@ This is a demo Portfolio. It can be viewed here https://kinjames.github.io/portf
 
 - [HTML](https://html.com/)
 - [CSS](https://www.w3schools.com/css/)
-- [JavaScript](https://www.w3schools.com/javascript/)
 
 ## Features
 
@@ -61,28 +60,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- - [ ] User story: This is a incompleted user stories
 - [ ] User story: This is a incompleted 2nd user stories -->
 
-## How To Use
-
-<!-- To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash -->
-# Clone this repository
-$ git clone https://kinjames.github.io/portfolio-challenge/
-
-% # # Install dependencies
-% # $ npm install
-
-<!-- # # Run the app
-# $ npm start
-``` -->
-
-<!-- ## Acknowledgements -->
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-<!-- - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked) -->
 
 ## Contact
 
