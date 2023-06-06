@@ -39,7 +39,7 @@
 
 ![screenshot](shot.png)
 
-This is a demo Portfolio. It can be viewed here  <a href="https://kinjames.github.io/portfolio-challenge/" target="_blank">Portfolio</a> and it was mainly built with HTML and CSS.
+This is a demo Portfolio. It can be viewed here..<a href="https://kinjames.github.io/portfolio-challenge/" target="_blank">Portfolio</a> and it was mainly built with HTML and CSS.
 
 
 
